@@ -2,7 +2,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>GitTest</groupId>
   <artifactId>GitTest</artifactId>
-  <packaging>jar</packaging>
   <version>1.0.1-SNAPSHOT</version>
   <build>
     <sourceDirectory>src</sourceDirectory>
